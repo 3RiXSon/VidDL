@@ -1,7 +1,7 @@
-name: probe
+name: probe-mac
 on: workflow_dispatch
 jobs:
   t:
-    runs-on: ubuntu-latest
+    runs-on: macos-14
     steps:
       - run: echo hi
