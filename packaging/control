@@ -1,0 +1,10 @@
+Package: com.rixtasy.viddl
+Name: VidDL
+Version: 1.0.0
+Architecture: ARCH
+Description: Download videos from YouTube, Instagram, Vimeo, Dailymotion and more, with resumable background downloads and a format converter.
+Maintainer: Rixtasy
+Author: Rixtasy
+Section: Utilities
+Depends: firmware (>= 15.0)
+Icon: file:///Applications/VidDL.app/AppIcon60x60@2x.png
